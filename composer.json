@@ -1,0 +1,22 @@
+{
+    "name": "sjaakp/yii2-linktitles",
+    "description": "Fetch link titles in the Yii 2.0 PHP framework",
+    "keywords": ["yii", "yii2", "extension", "widget", "links", "link titles"],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sjaak Priester",
+            "email": "sjaak@sjaakpriester.nl",
+            "homepage": "https://sjaakpriester.nl"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "sjaakp\\linktitles\\": ""
+        }
+    }
+}
